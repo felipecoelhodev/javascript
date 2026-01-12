@@ -1,10 +1,4 @@
-Com base na estrutura do seu repositório de viagens e no conteúdo dos arquivos que você subiu (que cobrem desde o básico até conceitos avançados de JS), aqui está uma proposta completa para o seu **README.md** e para a seção **About**.
 
----
-
-## 📝 Sugestão para o "About" (Descrição Lateral)
-
-> Repositório de estudos dedicado ao domínio da linguagem JavaScript, cobrindo desde fundamentos de lógica e sintaxe até conceitos avançados, manipulação de objetos e programação assíncrona. Inclui desafios práticos e projeto final.
 
 ---
 
